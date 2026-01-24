@@ -21,6 +21,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=160&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+
+## 🚀 About Me
+
+- 🤖 Passionate about Machine Learning & AI
+- 🔗 Exploring Blockchain Technologies
+- 🧠 Interested in NLP & Deep Learning
+- 🛠 Love building scalable ML solutions
+- 📈 Constantly learning and improving
 ---
 
 
@@ -36,62 +44,16 @@
 
 ## 🤖 Machine Learning, AI & Data Science
 
-### 🔹 Data Processing & Analysis
-- Pandas, NumPy, SQL (PostgreSQL)
-- Data Cleaning, Feature Engineering
-
-### 🔹 Machine Learning
-- Scikit-learn
-- Regression, Classification, Clustering
-- Model Evaluation & Optimization
-
-### 🔹 Deep Learning
-- TensorFlow, Keras, PyTorch
-- CNN, RNN, LSTM
-- Transfer Learning
-
-### 🔹 Natural Language Processing (NLP)
-- Hugging Face Transformers (BERT, DistilBERT)
-- spaCy, NLTK
-- Sentiment Analysis, Emotion Recognition
-- Named Entity Recognition (NER)
-
-### 🔹 Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases (ChromaDB)
-- LLM-based Chatbots & Q&A Systems
-
-### 🔹 Generative AI & Vision-Language Models
-- Stable Diffusion (Text-to-Image Generation)
-- OWL-ViT (Open-Vocabulary Object Detection)
-- Prompt-Based Image Generation & Analysis
-
-### 🔹 Audio & Speech AI
-- Librosa
-- Speech-to-Text (STT)
-- Text-to-Speech (TTS)
-- Audio Feature Extraction
-
-### 🔹 Computer Vision
-- OpenCV
-- MediaPipe
-- Image Processing
-- Face, Pose & Object Detection
-
-### 🔹 Clustering & Pattern Mining
-- HDBSCAN
-- Density-Based Clustering
-- Anomaly Detection
-
-### 🔹 Web Scraping & Data Collection
-- BeautifulSoup
-- Selenium, Playwright
-- Automated Data Pipelines
-
-### 🔹 Domain-Specific
-- BioPython (Bioinformatics & Sequence Analysis)
-
+- **Data & Preprocessing:** Pandas, NumPy, SQL, Feature Engineering  
+- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering  
+- **Deep Learning:** TensorFlow, Keras, PyTorch (CNN, RNN, LSTM)  
+- **NLP & LLMs:** Transformers (BERT, DistilBERT), spaCy, NLTK, RAG, ChromaDB  
+- **Generative AI:** Stable Diffusion, OWL-ViT, Vision-Language Models  
+- **Computer Vision:** OpenCV, MediaPipe, Object & Pose Detection  
+- **Speech & Audio:** Librosa, STT, TTS  
+- **Clustering:** HDBSCAN, Anomaly Detection  
+- **Scraping:** Selenium, Playwright, BeautifulSoup  
+- **Bioinformatics:** BioPython
 
 ---
 
@@ -109,15 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwiktomar&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
----
 
-## 🚀 About Me
-
-- 🤖 Passionate about Machine Learning & AI
-- 🔗 Exploring Blockchain Technologies
-- 🧠 Interested in NLP & Deep Learning
-- 🛠 Love building scalable ML solutions
-- 📈 Constantly learning and improving
 
 ---
 
