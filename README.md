@@ -13,6 +13,10 @@
   <a href="https://github.com/Satwiktomar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://satwiktomar.codes" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -80,6 +84,7 @@
 - 📧 Email: **satwiktomar77@gmail.com**
 - 💼 LinkedIn: [Satwik Tomar](https://www.linkedin.com/in/satwiktomar49/)
 - 🐙 GitHub: [Satwiktomar](https://github.com/Satwiktomar)
+- 🌐 Portfolio: **https://satwiktomar.codes**
 
 ---
 
